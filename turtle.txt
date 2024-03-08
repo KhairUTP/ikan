@@ -1,0 +1,14 @@
+hallo, so u=
+ma nem is kai
+so nak tmbh file tu dia kena tambah file bukan something inside file
+1. create new file
+2. kt jenis file tu tulis cmd 
+3. tulis git -b main
+4. nnti file tu leh jadi  repositories utk git
+5. tmbh file tu jadi repositories dlm git
+6. so yeh dh boleh ni
+7. so nk tmbh (track) semua untracked folder pakai git add (nama file better jgn ada space) kena echo lu  kalau nk 
+8. kalau nak tmbh 1 saja git add (nama file)
+git status: nk cek status file untracked or not
+git rm --cached (nama) nak buang
+git rm -r --cached . : nak buang semua
